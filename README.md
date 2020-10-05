@@ -7,3 +7,4 @@ Hola Los archivos que se han compartidos, todos son archivo codificados en pytho
 2.Un ejemplo del capacited vehicle routing problem (CVRP) con prqueñas instancias para la comprension.
 3.Este el el codigo guia para el seguimiento de la tesis
 4.Articulo ejemplo corto para la compresion de la Metahuristica utilizada
+Además se agregan dos grupos de instancias, de 20 y 30 clientes con 5 epositos.
