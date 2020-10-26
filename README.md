@@ -1,7 +1,8 @@
 # TesisLinayAngelica
 Repositorio para la tesis de Lina y Angélica
 Archivos completos del proyecto
-Hola Los archivos que se han compartidos, todos son archivo codificados en python, publicados en orden de creacion y utilizacion
+Hola Los archivos que se han compartidos, todos son archivo codificados en python, publicados en orden de creacion y utilizacion.
+Ademas se anexan una carpeta en donde se encuentran todas las instancias usadas.
 
 1.Archivo de practica, un ejemplo del Algoritmo Genetico (AG) minimizando la funcion ratrigin
 2.Un ejemplo del capacited vehicle routing problem (CVRP) con prqueñas instancias para la comprension.
